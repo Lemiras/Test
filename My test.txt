@@ -4,5 +4,11 @@ dsadsafsdfs
 asddasdsadsa
 
 
+<<<<<<< HEAD
 asdffdsafdsafasdf
 dsfasafasfsf
+=======
+asdffdsafdsafasdfsdadasd
+
+adsdsad
+>>>>>>> c96e7f967d237dc1918b9159c66e1ab896aec4bb
